@@ -1,2 +1,2 @@
-# corporate-template-
-สวัสดีครับ ยินดีต้อนรับ
+# Angular Js -
+แสดงผลหน้าจอโดยใช้คำสั่ง html ให้เชื่อมกับ module
